@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@android:drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        android:title="相册">
+
+        <menu>
+            <item
+                android:id="@+id/item_01"
+                android:icon="@android:drawable/ic_menu_camera"
+                android:orderInCategory="100"
+                android:title="sub_item1"/>
+            <item
+                android:icon="@android:drawable/ic_menu_camera"
+                android:orderInCategory="102"
+                android:title="sub_item3"/>
+            <item
+                android:icon="@android:drawable/ic_menu_camera"
+                android:orderInCategory="101"
+                android:title="sub_item2"/>
+            <item
+                android:icon="@android:drawable/ic_menu_camera"
+                android:orderInCategory="102"
+                android:title="sub_item4"/>
+            <item
+                android:icon="@android:drawable/ic_menu_camera"
+                android:orderInCategory="102"
+                android:title="sub_item5"/>
+            <item
+                android:icon="@android:drawable/ic_menu_camera"
+                android:orderInCategory="102"
+                android:title="sub_item6"/>
+
+        </menu>
+
+
+    </item>
+    >
+    <item
+        android:icon="@android:drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        android:title="足迹" />
+    <item
+        android:icon="@android:drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        android:title="行动" />
+    <item
+        android:icon="@android:drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        android:title="设置" />
+
+
+</menu>
